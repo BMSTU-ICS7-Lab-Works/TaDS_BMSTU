@@ -1,0 +1,100 @@
+Porsche;Italy;10000000;Purple;new;15
+Ford;Germany;200000;Purple;not new;2002;20;0;1
+Lada;Russia;200;Orange;not new;2001;99999999;0;20
+Lamborghini;Italy;99999999;Yellow;not new;2018;200000;0;1
+Ford;Germany;200000;Black;new;3
+Huyinday;China;212402;White;not new;2018;300;0;1
+Nissan;Japan;30000;Pink;not new;2007;10000;2;1
+Porsche;Italy;10000000;Purple;new;15
+Huyinday;China;212402;White;new;8
+Lamborghini;Italy;2299;Lemon;not new;2018;12312;0;1
+Ferrari;Italy;6777070;Red;not new;2005;6634;0;1
+Ford;Germany;200000;Black;new;3
+Nissan;Japan;30000;Pink;not new;2007;10000;2;1
+Porsche;Italy;10000000;Purple;new;15
+LandRover;Germany;200000;Purple;not new;2002;9899;0;1
+Lada;Russia;200;Orange;not new;2001;99999999;0;20
+Huyinday;China;212402;White;new;7
+Dodge;USA;564670;Pink;not new;2010;7777;0;1
+Saab;Italy;99999999;Yellow;not new;2018;6666;0;1
+Ford;Germany;200000;Black;new;3
+Peugeaut;China;212402;White;not new;2018;4441;0;1
+Nissan;Japan;30000;Pink;not new;2007;10000;2;1
+Porsche;Italy;10000000;Purple;new;15
+Mitsubishi;Italy;2223299;Lemon;not new;2018;23676;0;1
+Mercedes;Italy;6779999;Red;not new;2005;9009;0;1
+Toyota;Japan;20020;White;new;20
+LandRover;USA;99999;Blue;not new;2004;4500;33;2
+Vih_le_pyh;Russia;2700;Red;not new;2002;99;9999;9999
+Tiger;Australia;293934;Mint;not new;2006;2999;1;3
+Cadillac;Germany;2000004;Black;new;3
+LandRover;USA;99999;Blue;not new;2004;4500;33;2
+Vih_le_pyh;Russia;2700;Red;not new;2002;99;9999;9999
+Tiger;Australia;293934;Mint;not new;2006;2999;1;3
+Cadillac;Germany;2000004;Black;new;3
+Dodge;USA;77744;Red;new;20
+Jaguar;Estonia;9329934;Pink;new;100
+Bugatti;Sicilia;8482999;Orange;new;14
+AstonMartin;Finland;4724727;Purple;not new;2014;444421;20;3
+Chevrolet;Alasks;23044;Grey;not new;2000;4000;2;1
+Fiat;Spain;2355;White;not new;2005;25554;0;1
+Porsche;Italy;10000000;Purple;new;15
+Ford;Germany;200000;Purple;not new;2002;20;0;1
+Lada;Russia;200;Orange;not new;2001;99999999;0;20
+Lamborghini;Italy;99999999;Yellow;not new;2018;200000;0;1
+Ford;Germany;200000;Black;new;3
+Huyinday;China;212402;White;not new;2018;300;0;1
+Nissan;Japan;30000;Pink;not new;2007;10000;2;1
+Porsche;Italy;10000000;Purple;new;15
+Huyinday;China;212402;White;new;8
+Lamborghini;Italy;2299;Lemon;not new;2018;12312;0;1
+Ferrari;Italy;6777070;Red;not new;2005;6634;0;1
+Ford;Germany;200000;Black;new;3
+Nissan;Japan;30000;Pink;not new;2007;10000;2;1
+Porsche;Italy;10000000;Purple;new;15
+LandRover;Germany;200000;Purple;not new;2002;9899;0;1
+Lada;Russia;200;Orange;not new;2001;99999999;0;20
+Huyinday;China;212402;White;new;7
+Dodge;USA;564670;Pink;not new;2010;7777;0;1
+Saab;Italy;99999999;Yellow;not new;2018;6666;0;1
+Ford;Germany;200000;Black;new;3
+Peugeaut;China;212402;White;not new;2018;4441;0;1
+Nissan;Japan;30000;Pink;not new;2007;10000;2;1
+Porsche;Italy;10000000;Purple;new;15
+Mitsubishi;Italy;2223299;Lemon;not new;2018;23676;0;1
+Mercedes;Italy;6779999;Red;not new;2005;9009;0;1
+Toyota;Japan;20020;White;new;20
+LandRover;USA;99999;Blue;not new;2004;4500;33;2
+Vih_le_pyh;Russia;2700;Red;not new;2002;99;9999;9999
+Tiger;Australia;293934;Mint;not new;2006;2999;1;3
+Cadillac;Germany;2000004;Black;new;3
+LandRover;USA;99999;Blue;not new;2004;4500;33;2
+Vih_le_pyh;Russia;2700;Red;not new;2002;99;9999;9999
+Tiger;Australia;293934;Mint;not new;2006;2999;1;3
+Cadillac;Germany;2000004;Black;new;3
+Dodge;USA;77744;Red;new;20
+Jaguar;Estonia;9329934;Pink;new;100
+Bugatti;Sicilia;8482999;Orange;new;14
+AstonMartin;Finland;4724727;Purple;not new;2014;444421;20;3
+Chevrolet;Alasks;23044;Grey;not new;2000;4000;2;1
+Fiat;Spain;2355;White;not new;2005;25554;0;1
+Porsche;Italy;10000000;Purple;new;15
+Ford;Germany;200000;Purple;not new;2002;20;0;1
+Lada;Russia;200;Orange;not new;2001;99999999;0;20
+Opel;France;20000;Blue;not new;2012;2000;2;2
+Opel;France;564670;Pink;not new;2018;4000;0;1
+Lamborghini;Italy;99999999;Yellow;not new;2018;200000;0;1
+Opel;France;23440;Blue;not new;2012;2000;2;2
+Opel;France;564670;Red;new;9
+Opel;France;25477800;Blue;not new;2012;2000;2;2
+Ford;Germany;200000;Black;new;3
+Huyinday;China;212402;White;not new;2018;300;0;1
+Nissan;Japan;30000;Pink;not new;2007;10000;2;1
+Porsche;Italy;10000000;Purple;new;15
+Opel;France;20000;Blue;not new;2012;2000;2;2
+Huyinday;China;212402;White;new;8
+Lamborghini;Italy;2299;Lemon;not new;2018;12312;0;1
+Ferrari;Italy;6777070;Red;not new;2005;6634;0;1
+Ford;Germany;200000;Black;new;3
+Nissan;Japan;30000;Pink;not new;2007;10000;2;1
+Porsche;Italy;10000000;Purple;new;15
